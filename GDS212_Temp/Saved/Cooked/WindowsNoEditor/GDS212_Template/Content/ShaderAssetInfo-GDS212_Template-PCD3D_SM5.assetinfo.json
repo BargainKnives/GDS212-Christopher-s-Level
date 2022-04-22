@@ -2,6 +2,12 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "78613262B0A1158726BABB15DD0E1E805B572A21",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "A2C097021E9B39610D55033ED6D2A4F270CD9EC6",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -11,6 +17,18 @@
 			"ShaderMapHash": "693F5D8441932DCA3C010659E10D80AA4CFED6FC",
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "C4359193E47C063A73C0B6249DA498374AA7DCFA",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F822C5A4ADC1B264128B6BA1D6FD185A58630429",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
 			]
 		},
 		{
@@ -141,9 +159,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9ABCF6454CED3CD400F256A7F40AFFA06916AB57",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
 			"ShaderMapHash": "BDB6049078966B7E0BE2307A7474CF8D1CB2FB85",
 			"Assets": [
 				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "20D8C288DAA5B57A4FD13BF13059812DEC5D2446",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
 			]
 		},
 		{
@@ -196,9 +226,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1ADBAF05C72913E91D480A1107AECC6C01DAA463",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
 			"ShaderMapHash": "14DAEDE5D017A5B05D9C06BE65F40ACF062368C6",
 			"Assets": [
 				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3C097A826C2CC0AFF170896E355C8F91D2AFC379",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
 			]
 		},
 		{
@@ -229,12 +271,6 @@
 			"ShaderMapHash": "24C433FACF74298D2606D7B0639A88B8B135B9A2",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
-			]
-		},
-		{
-			"ShaderMapHash": "78613262B0A1158726BABB15DD0E1E805B572A21",
-			"Assets": [
-				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
 			]
 		},
 		{
@@ -325,21 +361,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6E12247ED8F10CF1F966691D6348C1FA385CD6EE",
-			"Assets": [
-				"/Game/ProvidedContent/Assets/LearningKit_Games/Assets/Props/Buttons/Button_A/Material/MI_Button_A"
-			]
-		},
-		{
 			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
-			"ShaderMapHash": "90EDA14F08FB554F5A288A486EE8908683738D3A",
+			"ShaderMapHash": "6E12247ED8F10CF1F966691D6348C1FA385CD6EE",
 			"Assets": [
-				"/Game/ProvidedContent/PlatformerPack2/Ocean/Materials/M_OceanWater_1"
+				"/Game/ProvidedContent/Assets/LearningKit_Games/Assets/Props/Buttons/Button_A/Material/MI_Button_A"
+			]
+		},
+		{
+			"ShaderMapHash": "AAB1502A7500178227AED494CDC60ABBA8EF636B",
+			"Assets": [
+				"/Game/ProvidedContent/LearningKit_Games/Assets/_Shared/Materials/M_LearningKit_Foliage_Master",
+				"/Game/ProvidedContent/LearningKit_Games/Assets/_Shared/Materials/MI_Grass_BaseInstance"
 			]
 		},
 		{
@@ -388,8 +425,8 @@
 		{
 			"ShaderMapHash": "E4D9D3412AC697B7D69A54D4079147729380C8B1",
 			"Assets": [
-				"/Game/ProvidedContent/LowPolyForest/Trees/SpruceTreeTrunk",
 				"/Game/ProvidedContent/LowPolyForest/Trees/SpruceTreeLeaf",
+				"/Game/ProvidedContent/LowPolyForest/Trees/SpruceTreeTrunk",
 				"/Game/ProvidedContent/LowPolyForest/Rocks/Rock"
 			]
 		},
@@ -406,58 +443,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AAB1502A7500178227AED494CDC60ABBA8EF636B",
+			"ShaderMapHash": "90EDA14F08FB554F5A288A486EE8908683738D3A",
 			"Assets": [
-				"/Game/ProvidedContent/LearningKit_Games/Assets/_Shared/Materials/M_LearningKit_Foliage_Master",
-				"/Game/ProvidedContent/LearningKit_Games/Assets/_Shared/Materials/MI_Grass_BaseInstance"
-			]
-		},
-		{
-			"ShaderMapHash": "07208502DDAA3FC5DDE0BED9F9F5F25A554598C7",
-			"Assets": [
-				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_subUV01"
-			]
-		},
-		{
-			"ShaderMapHash": "1ADBAF05C72913E91D480A1107AECC6C01DAA463",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Main"
-			]
-		},
-		{
-			"ShaderMapHash": "026779DA7486A1B58659DFB9AF633262632E4DA7",
-			"Assets": [
-				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_auraWall02"
-			]
-		},
-		{
-			"ShaderMapHash": "DEF59AE02F456FB553CB38F8AC8CB779E6B3CDEC",
-			"Assets": [
-				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_base_anime"
-			]
-		},
-		{
-			"ShaderMapHash": "3C097A826C2CC0AFF170896E355C8F91D2AFC379",
-			"Assets": [
-				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
-			]
-		},
-		{
-			"ShaderMapHash": "D74772E68901A7EC6E23580963E0F67C1178C753",
-			"Assets": [
-				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_primitive_dyn2"
-			]
-		},
-		{
-			"ShaderMapHash": "43C13576F1144D0B46CF49D8F9615D6C17B6C8E4",
-			"Assets": [
-				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_starDust"
-			]
-		},
-		{
-			"ShaderMapHash": "8EDD3EF19F524AC39D9FE8E8533C5419003D0DF1",
-			"Assets": [
-				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_dust01_4x4"
+				"/Game/ProvidedContent/PlatformerPack2/Ocean/Materials/M_OceanWater_1"
 			]
 		},
 		{
@@ -467,15 +455,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AF4601DCFAB4D19D2CFF62A71D140AE8ADF268FD",
+			"ShaderMapHash": "8EDD3EF19F524AC39D9FE8E8533C5419003D0DF1",
 			"Assets": [
-				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/MI_ky_auraWall02_two"
+				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_dust01_4x4"
 			]
 		},
 		{
-			"ShaderMapHash": "3115A84C3257A62C0D8FDDF2E73F8AAEFF805061",
+			"ShaderMapHash": "43C13576F1144D0B46CF49D8F9615D6C17B6C8E4",
 			"Assets": [
-				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/MI_ky_circle9_4x4c2"
+				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_starDust"
 			]
 		},
 		{
@@ -485,27 +473,39 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9ABCF6454CED3CD400F256A7F40AFFA06916AB57",
+			"ShaderMapHash": "D74772E68901A7EC6E23580963E0F67C1178C753",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_primitive_dyn2"
 			]
 		},
 		{
-			"ShaderMapHash": "20D8C288DAA5B57A4FD13BF13059812DEC5D2446",
+			"ShaderMapHash": "DEF59AE02F456FB553CB38F8AC8CB779E6B3CDEC",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_base_anime"
 			]
 		},
 		{
-			"ShaderMapHash": "F822C5A4ADC1B264128B6BA1D6FD185A58630429",
+			"ShaderMapHash": "3115A84C3257A62C0D8FDDF2E73F8AAEFF805061",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/MI_ky_circle9_4x4c2"
 			]
 		},
 		{
-			"ShaderMapHash": "C4359193E47C063A73C0B6249DA498374AA7DCFA",
+			"ShaderMapHash": "026779DA7486A1B58659DFB9AF633262632E4DA7",
 			"Assets": [
-				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_auraWall02"
+			]
+		},
+		{
+			"ShaderMapHash": "AF4601DCFAB4D19D2CFF62A71D140AE8ADF268FD",
+			"Assets": [
+				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/MI_ky_auraWall02_two"
+			]
+		},
+		{
+			"ShaderMapHash": "07208502DDAA3FC5DDE0BED9F9F5F25A554598C7",
+			"Assets": [
+				"/Game/ProvidedContent/Assets/FXVarietyPack/Materials/M_ky_subUV01"
 			]
 		}
 	]
