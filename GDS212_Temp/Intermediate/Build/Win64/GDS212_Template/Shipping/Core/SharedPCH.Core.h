@@ -1,4 +1,4 @@
-// PCH for C:\UE_4.27\Engine\Source\Runtime\Core\Public\CoreSharedPCH.h
+// PCH for D:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Core\Public\CoreSharedPCH.h
 #define IS_PROGRAM 0
 #define UE_GAME 1
 #define ENABLE_PGO_PROFILE 0
@@ -34,7 +34,7 @@
 #define UBT_COMPILED_PLATFORM Win64
 #define UBT_COMPILED_TARGET Game
 #define UE_APP_NAME "UE4"
-#define UE_ENGINE_DIRECTORY "../../../../../../../../UE_4.27/Engine/"
+#define UE_ENGINE_DIRECTORY "D:/Unreal Engine/UE_4.27/Engine/"
 #define NDIS_MINIPORT_MAJOR_VERSION 0
 #define WIN32 1
 #define _WIN32_WINNT 0x0601
@@ -56,4 +56,4 @@
 #define WITH_MALLOC_STOMP 0
 #define CORE_API 
 #define TRACELOG_API 
-#include "C:/UE_4.27/Engine/Source/Runtime/Core/Public/CoreSharedPCH.h"
+#include "D:/Unreal Engine/UE_4.27/Engine/Source/Runtime/Core/Public/CoreSharedPCH.h"

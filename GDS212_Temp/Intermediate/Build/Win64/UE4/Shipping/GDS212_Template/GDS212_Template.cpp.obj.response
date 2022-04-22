@@ -74,20 +74,20 @@
 /I Runtime\TraceLog\Public\Trace
 /I Runtime\TraceLog\Public\Trace\Detail
 /I Runtime\TraceLog\Public\Trace\Detail\Protocols
-/I C:\Users\crayos\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate
-/I C:\Users\crayos\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Source
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I C:\Users\chris\OneDrive\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate
+/I C:\Users\chris\OneDrive\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Source
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\crayos\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h"
-/Yu"C:\Users\crayos\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h"
-/Fp"C:\Users\crayos\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h.pch"
-"C:\Users\crayos\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Source\GDS212_Template.cpp"
-/FI"C:\Users\crayos\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Build\Win64\UE4\Shipping\GDS212_Template\Definitions.GDS212_Template.h"
-/Fo"C:\Users\crayos\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Build\Win64\UE4\Shipping\GDS212_Template\GDS212_Template.cpp.obj"
+/FI"C:\Users\chris\OneDrive\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h"
+/Yu"C:\Users\chris\OneDrive\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h"
+/Fp"C:\Users\chris\OneDrive\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h.pch"
+"C:\Users\chris\OneDrive\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Source\GDS212_Template.cpp"
+/FI"C:\Users\chris\OneDrive\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Build\Win64\UE4\Shipping\GDS212_Template\Definitions.GDS212_Template.h"
+/Fo"C:\Users\chris\OneDrive\Documents\GitHub\GDS212-Christopher-s-Level\GDS212_Temp\Intermediate\Build\Win64\UE4\Shipping\GDS212_Template\GDS212_Template.cpp.obj"
 /TP
 /GR-
 /W4
